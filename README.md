@@ -132,7 +132,7 @@ Helpful Operations:
    Review history:
         Browse and inspect the evolution of project files
     
-        git log: Lists version history for the current branch
+        git log (Lists version history for the current branch)
 
         git log --follow [file] (Lists version history for the file, including renames)
         
@@ -172,10 +172,12 @@ Helpful Operations:
         git pull (Downloads bookmark history and incorporates changes)
         
         
-   Note: "Learn Git Branching" is the most visual and interactive way to learn Git on the web. Must explore 
+   Must Try:  
+   
+   "Learn Git Branching" is the most visual and interactive way to learn Git on the web. Must explore 
    https://learngitbranching.js.org/.
    
-   Note: Explore how Git commands affect the structure of a repository within your web browser. Must explore 
+   Explore how Git commands affect the structure of a repository within your web browser. Must explore 
    http://git-school.github.io/visualizing-git/.
    
    Note: More advanced concepts will be added soon.
