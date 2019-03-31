@@ -172,8 +172,10 @@ Helpful Operations:
         git pull (Downloads bookmark history and incorporates changes)
         
         
-   Note: "Learn Git Branching" is the most visual and interactive way to learn Git on the web. Click https://learngitbranching.js.org/.
+   Note: "Learn Git Branching" is the most visual and interactive way to learn Git on the web. Must explore 
+   https://learngitbranching.js.org/.
    
-   Note: Explore how Git commands affect the structure of a repository within your web browser. Click http://git-school.github.io/visualizing-git/.
+   Note: Explore how Git commands affect the structure of a repository within your web browser. Must explore 
+   http://git-school.github.io/visualizing-git/.
    
    Note: More advanced concepts will be added soon.
