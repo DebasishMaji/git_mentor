@@ -174,10 +174,9 @@ Helpful Operations:
         
    Must Try:  
    
-   "Learn Git Branching" is the most visual and interactive way to learn Git on the web. Must explore 
-   https://learngitbranching.js.org/.
+   * "Learn Git Branching" is the most visual and interactive way to learn Git on the web. Must explore https://learngitbranching.js.org/.
    
-   Explore how Git commands affect the structure of a repository within your web browser. Must explore 
-   http://git-school.github.io/visualizing-git/.
+   * Explore how Git commands affect the structure of a repository within your web browser. 
+   Must explore http://git-school.github.io/visualizing-git/.
    
    Note: More advanced concepts will be added soon.
